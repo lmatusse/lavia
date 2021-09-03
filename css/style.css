@@ -1,0 +1,28 @@
+.navbar-light .navbar-brand {
+    color: white !important;
+}
+.nav-link.active, .navbar-light .navbar-nav .show > .nav-link {
+    color: white !important;
+}
+navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+.floatting{
+    float: right !important;
+}
+.menu
+{
+    padding-left: 200px !important;
+    padding-right: 200px !important;
+}
+
+.slide
+{
+  height: 100vh;
+}
